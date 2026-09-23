@@ -8,4 +8,4 @@ Disallow: /join.html
 Disallow: /mypage.html
 Disallow: /shop.html
 
-Sitemap: https://star-massage.example/sitemap.xml
+Sitemap: https://star-massage.store/sitemap.xml
